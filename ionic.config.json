@@ -1,0 +1,7 @@
+{
+  "name": "ANIMATED_SPLASH",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
